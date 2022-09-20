@@ -1,0 +1,24 @@
+{
+  "name": "mzwygart/ngrok-bedrock",
+  "type": "wordpress-plugin",
+  "license": "GPLv2+",
+  "description": "Use relative links to expose local bedrock to the web using ngrok.",
+  "authors": [
+    {
+      "name": "Mathieu Zwygart",
+      "email": "mathieu@zwygart.net",
+      "homepage": "https://github.com/mzwygart"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "lando",
+    "ngrok"
+  ],
+  "support": {
+    "issues": "https://github.com/mzwygart/ngrok-bedrock/issues"
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
