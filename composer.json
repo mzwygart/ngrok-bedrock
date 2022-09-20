@@ -1,7 +1,7 @@
 {
   "name": "mzwygart/ngrok-bedrock",
   "type": "wordpress-plugin",
-  "license": "GPLv2+",
+  "license": "GPL-2.0-or-later",
   "description": "Use relative links to expose local bedrock to the web using ngrok.",
   "authors": [
     {
