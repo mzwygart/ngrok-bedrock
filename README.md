@@ -1,10 +1,9 @@
 # Ngrok Bedrock
-==============
 
 Use relative links to expose local bedrock to the web using ngrok.
 
 ## Installation
-============
+
 If you're [using Composer to manage WordPress](https://roots.io/using-composer-with-wordpress/), add Ngrok Bedrock to your project's dependencies.
 
 ```sh
