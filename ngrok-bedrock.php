@@ -8,7 +8,7 @@
  * License: GPLv2+
  */
 
-use function Env\env;
+use Env\Env;
 
 class Ngrok_Bedrock {
 
